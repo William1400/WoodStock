@@ -1,0 +1,48 @@
+.form {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+
+    margin-top: 50px;
+}
+
+.title {
+
+    margin-right: 700px;
+    text-transform: uppercase;
+}
+
+.form-control {
+    
+    display: flex;
+    gap: 60px;
+    width: 300px;
+    height: 30px;
+ 
+    border-radius: 20px;
+    border: solid 2px #BCB5B5; 
+}
+
+.name-style {
+
+    display: flex;
+    gap: 20px;
+}
+
+.email {
+
+    margin-top: 20px;
+}
+
+.form-control-message {
+
+    display: flex;
+    gap: 50px;
+    width: 640px;
+    height: 200px;
+ 
+    border-radius: 20px;
+    border: solid 2px #BCB5B5; 
+}
