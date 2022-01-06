@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/woodstock/static/css/main.e1e2abaa.css",
+    "main.js": "/woodstock/static/js/main.c8e4dbb5.js",
+    "static/media/background.png": "/woodstock/static/media/background.783f33551e21c1e047fa.png",
+    "static/media/chaisedroite.png": "/woodstock/static/media/chaisedroite.bfac44648da175a21a0a.png",
+    "static/media/footer.png": "/woodstock/static/media/footer.019be94f4ab946648296.png",
+    "static/media/chaisegauche.png": "/woodstock/static/media/chaisegauche.d958195b4111324d324b.png",
+    "index.html": "/woodstock/index.html",
+    "main.e1e2abaa.css.map": "/woodstock/static/css/main.e1e2abaa.css.map",
+    "main.c8e4dbb5.js.map": "/woodstock/static/js/main.c8e4dbb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1e2abaa.css",
+    "static/js/main.c8e4dbb5.js"
+  ]
+}
